@@ -1,3 +1,6 @@
+# ignore files that contain credentials
+*.secret
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
